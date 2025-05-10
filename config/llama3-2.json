@@ -1,8 +1,8 @@
 {
   "address": "",
-  "chat": "https://huggingface.co/second-state/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q5_K_M.gguf",
-  "chat_batch_size": "128",
-  "chat_ctx_size": "16384",
+  "chat": "https://huggingface.co/gaianet/Qwen1.5-0.5B-Chat-GGUF/resolve/main/Qwen1.5-0.5B-Chat-Q5_K_M.gguf",
+  "chat_batch_size": "16",
+  "chat_ctx_size": "32768",
   "chat_name": "Llama-3.2-3B-Instruct",
   "chat_ubatch_size": "128",
   "context_window": "1",
